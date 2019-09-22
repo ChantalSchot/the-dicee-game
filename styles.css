@@ -1,0 +1,48 @@
+/* General elements */
+
+body {
+	background-color: #fae3d9;
+	color: #386972;
+	font-family: 'Handlee', cursive;
+	font-size: 2rem;
+	text-align: center;
+	padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+font-family: 'Pacifico', cursive;
+font-size: 6rem;
+text-shadow: 4px 2px 2px #ffb6b9;
+margin: 30px;
+}
+
+footer {
+	font-size: 1.2rem;
+	margin-top: 8%;
+}
+
+a {
+	text-decoration: none;
+	color: #5e939c;
+}
+
+a:hover {
+	color: #8ac6d1;
+}
+
+
+
+/* Dice */
+
+.dice {
+	display: inline-block;
+}
+
+.dice-img {
+	width: 90%;
+}
